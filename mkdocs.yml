@@ -190,6 +190,7 @@ nav:
     - Terraform on Jetstream2: general/terraform.md
     - Virtual Clusters on Jetstream2: general/virtualclusters.md
     - Federating Gateways on Jetstream2: general/federating.md
+    - Hardware Accerelated Remote Visualization: general/egl_hardware_accel.md
   - Archived Documentation:
     - Atmosphere on JS1:
       - Customizing and saving a VM: archive/atmosphere/Customizing+and+saving+a+VM.md
